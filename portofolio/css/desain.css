@@ -1,0 +1,10 @@
+.crd{
+    transition: .5s ease;
+  }
+  .crd:hover{
+    transform: scale(1.05);
+    box-shadow: 20px 20px 20px rgb(0, 238, 255);
+  }
+.hi{
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
